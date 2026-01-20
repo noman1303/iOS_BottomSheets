@@ -231,30 +231,4 @@ List(items, id: \.self) { item in
 | `@Environment(\.dismiss)` | iOS 15.0+ |
 
 All features include availability checks and fallbacks where necessary.
-
----
-
-## 🚀 Getting Started
-
-### Requirements
-- Xcode 14.0+
-- iOS 13.0+
-- Swift 5.9+
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/BottomSheetsSwiftUI.git
-```
-
-2. Open the project
-```bash
-cd BottomSheetsSwiftUI
-open BottomSheetsSwiftUI.xcodeproj
-```
-
-3. Build and run
-- Select your target device or simulator
-- Press `Cmd + R` to run
  
